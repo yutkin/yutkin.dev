@@ -35,18 +35,5 @@ $on-laptop:        800px;
 //     }
 // }
 
-*,
-*::before,
-*::after {
-  -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  box-sizing: border-box;
-}
-
-footer {
-  text-align: center;
-  padding: 40px;
-}
-
 // Import partials from the `minima` theme.
 @import "minima";
