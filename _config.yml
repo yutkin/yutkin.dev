@@ -1,0 +1,62 @@
+title: Dmitry Yutkin
+author: Dmitry Yutkin
+email: yutkinn@gmail.com
+url: https://yutkin.dev
+description: > # this means to ignore newlines until "show_excerpts:"
+  This is Dmitry' Yutkin personal blog. Here you can find my posts about programming,
+  machine learning, DevOps and other different topics. My CV is located under /about tab. Enjoy!
+
+show_excerpts: false # set to true to show excerpts on the homepage
+
+social:
+  name: Dmitry Yutkin
+  links:
+    - https://www.linkedin.com/in/yutkin/
+    - https://github.com/yutkin
+    - https://stackoverflow.com/users/4229825/0x1337
+
+# Minima date format
+# refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%b %-d, %Y"
+
+  # generate social links in footer
+  social_links:
+    github:  yutkin
+    telegram: d_yutkin
+    linkedin: yutkin
+    # rss: rss
+    # dribbble: jekyll
+    # facebook: jekyll
+    # flickr:   jekyll
+    # instagram: jekyll
+    # pinterest: jekyll
+    # youtube: jekyll
+    # youtube_channel: UC8CXR0-3I70i1tfPg1PAE1g
+    # youtube_channel_name: CloudCannon
+    # googleplus: +jekyll
+    # microdotblog: jekyll
+
+    # Mastodon instances
+    # mastodon:
+    # - username: jekyll
+    #   instance: example.com
+    # - username: jekyll2
+    #   instance: example.com
+
+# If you want to link only specific pages in your header, uncomment
+# this and add the path to the pages in order as they should show up
+header_pages:
+ - about.md
+
+disqus:
+  shortname: yutkin
+
+# Build settings
+theme: minima
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
+
+google_analytics: UA-83729885-2
