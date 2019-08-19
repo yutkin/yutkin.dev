@@ -60,6 +60,3 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-
-google_site_verification: 7vczROQRWNxkDqZd4Qt-91KNrrSlfa0gHZLT6RQ7_Uo
-google_analytics: UA-83729885-2
