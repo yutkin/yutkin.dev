@@ -3,7 +3,7 @@ author: Dmitry Yutkin
 email: yutkinn@gmail.com
 url: https://yutkin.dev
 description: > # this means to ignore newlines until "show_excerpts:"
-  This is Dmitry' Yutkin personal blog. Here you can find my posts about programming,
+  This is Dmitry' Yutkin personal blog. Here you can find posts about programming,
   machine learning, DevOps and other different topics. My CV is located under /about tab. Enjoy!
 
 show_excerpts: false # set to true to show excerpts on the homepage
@@ -25,6 +25,8 @@ minima:
     github:  yutkin
     telegram: d_yutkin
     linkedin: yutkin
+    stackoverflow: "4229825"
+
     # rss: rss
     # dribbble: jekyll
     # facebook: jekyll
