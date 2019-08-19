@@ -1,10 +1,11 @@
-title: Dmitry Yutkin
+title: Dmitry Yutkin. Personal Blog.
 author: Dmitry Yutkin
 email: yutkinn@gmail.com
 url: https://yutkin.dev
 description: > # this means to ignore newlines until "show_excerpts:"
-  This is Dmitry' Yutkin personal blog. Here you can find posts about programming,
-  machine learning, DevOps and other different topics. My CV is located under /about tab. Enjoy!
+  Welcome to my personal blog! Here you can find posts about programming,
+  machine learning, DevOps practices and other topics. To learn more about me go to the "About" tab.
+  Let's get in touch!
 
 show_excerpts: false # set to true to show excerpts on the homepage
 
